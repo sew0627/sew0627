@@ -194,12 +194,12 @@ Features:
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Activity Graph
 
 
 <div align="center">
 
-<img src="assets/snake.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sew0627&theme=tokyonight&hide_border=true&area=true" width="100%" />
 
 </div>
 
