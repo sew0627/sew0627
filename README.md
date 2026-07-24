@@ -199,7 +199,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sew0627&theme=tokyonight&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sew0627&bg_color=1a0b2e&color=b39ddb&line=4e8cff&point=ffffff&area_color=4e8cff&hide_border=true&area=true" width="100%" />
 
 </div>
 
