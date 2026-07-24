@@ -45,7 +45,7 @@ Currently working on creating real-world data projects involving:
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,react" />
 
 </p>
 
@@ -63,7 +63,8 @@ Currently working on creating real-world data projects involving:
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
 
 </p>
 
@@ -72,7 +73,7 @@ Currently working on creating real-world data projects involving:
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
 
@@ -209,14 +210,14 @@ Features:
 
 <p align="left">
 
-<a href="mailto:sewminichanchala0627@gmail.com">
+<a href="mailto:sewmini0627@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail" />
 
 </a>
 
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/sewmini-chanchala-066387336">
 
 <img src="https://skillicons.dev/icons?i=linkedin" />
 
