@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%">
-
 # Hi 👋, I'm Sewmini Chanchala
 
-### Data Science | Data Engineering | Information Systems Undergraduate
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Data+Engineer;Full+Stack+Developer;Information+Systems+Undergraduate" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=sew0627&label=Profile%20Views&color=blue&style=flat" />
 
