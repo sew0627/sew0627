@@ -169,7 +169,7 @@ Features:
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sew0627&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sew0627&show_icons=true&theme=tokyonight" />
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sew0627&theme=tokyonight" />
@@ -186,7 +186,7 @@ Features:
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sew0627&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sew0627&layout=compact&theme=tokyonight" />
 
 
 </div>
