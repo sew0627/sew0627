@@ -112,40 +112,6 @@ Currently working on creating real-world data projects involving:
 # 🚀 Featured Projects
 
 
-## 🎵 PulseBeat Analytics
-
-Music Intelligence Analytics Platform
-
-Features:
-
-✔ Data Pipeline  
-✔ Data Cleaning  
-✔ SQL Database  
-✔ Analytics Dashboard  
-✔ Data Visualization  
-
-
-Technologies:
-
-Python | Pandas | SQL | Power BI
-
-
----
-
-## 🏦 World Bank Data ETL Pipeline
-
-End-to-end ETL project extracting and transforming financial data.
-
-Features:
-
-✔ Web Scraping  
-✔ Data Transformation  
-✔ Database Loading  
-✔ Logging System  
-
-
----
-
 ## 🧬 LifeConnect Sri Lanka
 
 Organ Donation Management System
@@ -159,6 +125,24 @@ Features:
 ✔ Donation Tracking  
 ✔ User Roles
 
+---
+
+## 🎵 IntelliStream
+
+Youtube data Analytics Platform
+
+Features:
+
+✔ Data Pipeline  
+✔ Data Cleaning  
+✔ SQL Database  
+✔ Analytics Dashboard  
+✔ Data Visualization  
+
+
+Technologies:
+
+Python | Pandas | SQL | Power BI
 
 ---
 
